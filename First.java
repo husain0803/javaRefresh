@@ -8,6 +8,6 @@ public class First {
         System.out.println(n);
         sc.close();
         //this is to close();
-        //written some code
+        //written 
     }
 }
